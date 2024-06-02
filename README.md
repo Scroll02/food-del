@@ -8,6 +8,6 @@ Running the Application:
 2. In both the frontend and admin folders, start the development servers with: "npm run dev"
 
 Configuration:
-1.After starting the frontend, check the port on which it is running.
-2.Navigate to the backend/controllers/orderController.js file.
-3.Update the frontend_url variable to match the URL of the running frontend.
+1. After starting the frontend, check the port on which it is running.
+2. Navigate to the backend/controllers/orderController.js file.
+3. Update the frontend_url variable to match the URL of the running frontend.
